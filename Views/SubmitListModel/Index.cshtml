@@ -1,0 +1,24 @@
+﻿@using WedSiteBanHang.Models;
+@model PhieuNhap
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    <input name="MaPN" />
+    <input name="MaNCC" />
+    for (int i = 0; i < 10; i++)
+    {
+
+        <h2>Thông tin Sản phẩm</h2>
+        @*Đẻ MVC tự động trả dữ liệu model theo dạng list thì cách đặt tên như sau *@
+        <input name="@Url.Content("[" +i+"].MaSP")" value=@i /><br />
+        <input name="@Url.Content("[" +i+"].DonGiaNhap")" value="1000" /><br />
+        <input name="@Url.Content("[" +i+"].SoLuongNhap")" value="100" /><br />
+    }
+    <input type="submit" value="Đồng ý" />
+
+}

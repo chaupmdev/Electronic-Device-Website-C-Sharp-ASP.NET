@@ -1,0 +1,66 @@
+﻿@using WedSiteBanHang.Models;
+@model IEnumerable<SanPham>
+
+@{
+
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+    // Khởi tạo control WebGrid
+    WebGrid grid = new WebGrid(source: Model, rowsPerPage: 20);
+}
+@Html.ActionLink("Thêm sản phẩm", "TaoMoi", null, new { @class ="btn btn-success"})
+<br /><br />
+@*Thể hiện dữ liệu thông qua control webGrid*@
+@grid.GetHtml(
+    tableStyle: "divTable", //csscho thẻ table
+    headerStyle: "gridHead",// class css cho tiêu đề của table
+    footerStyle: "gridFooter",// class css cho phần phân trang phía dưới
+    rowStyle: "gridRow",// class css các row lẻ
+    alternatingRowStyle: "gridAltRow",// class css các row chẵn (xen kẽ)
+    columns: grid.Columns(
+        grid.Column("MaSP", "Mã sản phẩm"),
+        grid.Column("TenSP","Tên sản phẩm"),
+
+        grid.Column("HinhAnh", "Hình ảnh", format: p => @Html.Raw("<img width=\"150\" height=\"50\" src=\"../Content/images/"+p.HinhAnh+"\">")),
+        grid.Column(format: p=> Html.ActionLink("Chỉnh sửa","ChinhSua", new {id=p.MaSP})),
+        grid.Column(format: p => Html.ActionLink("Xóa", "Xoa", new { id = p.MaSP }))
+
+
+        ))
+@*css cho từng style của table*@
+<style>
+    .divTable{
+       width: 100%;
+       border: 1px solid #999999;
+
+    }
+    .divTable td{
+        border: 1px solid #999999;
+    }
+    .gridHead{
+       background-color: green;
+    }
+    .gridHead > th > a{
+        color: #fff;
+    }
+    .gridFooter{
+        font-weight: bold;
+    }
+    /*.gridRow{
+        color: #fff;
+        background-color: blueviolet;
+    }
+    .gridAltRow{
+        color: #fff;
+        background-color: orange;
+    }
+ element.style {
+    width: 200px;*/
+}
+
+</style>
+<style>
+    .FooterAdmin{
+        display: none;
+    }
+</style>

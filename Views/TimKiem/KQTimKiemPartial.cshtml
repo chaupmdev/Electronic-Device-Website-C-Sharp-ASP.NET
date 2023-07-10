@@ -1,0 +1,69 @@
+﻿
+@model IEnumerable<WedSiteBanHang.Models.SanPham>
+    @{ 
+        //Bước 1
+        int iDem = 0; //Đếm số lượng sản phẩm trên trang
+        int iSLSanPhamTrenTrang = 6;//Số lương sản phẩm trên 1 trang
+        int iTrang = 1;// Số trang
+    }
+<div class="col-md-9 product1">
+    <div class="bottom-product">
+        @foreach (var item in Model.OrderBy(n => n.DonGia))
+        {
+            if(iDem % iSLSanPhamTrenTrang == 0 && iDem != 0)
+            {
+                iTrang++;
+            }
+            <div class="@Url.Content("col-md-4 bottom-cd simpleCart_shelfItem Trang" +iTrang.ToString())">
+                <div class="product-at ">
+                    <a href="single.html">
+                        <img class="img-responsive" src="@Url.Content("~/Content/images/"+ item.HinhAnh)" alt="" style="width: 150px; height: 150px">
+                        <div class="pro-grid">
+                            <span class="buy-in">Đặt Mua</span>
+                        </div>
+                    </a>
+                </div>
+                <p class="tun">@item.TenSP</p>
+                @*The a nut them*@
+                <a href="@Url.Action("ThemGioHang","GioHang", new { @MaSP = item.MaSP, @strURL = Request.Url.ToString()})" class="item_add"><p class="number item_price"><i> </i>@item.DonGia.Value.ToString("#,##")</p></a>
+            </div>
+            iDem++;
+        }
+
+
+        <div class="clearfix"> </div>
+
+    </div>
+    <div class="Trang">
+        @for (int i = 1; i <= iTrang; i++)
+        {
+            <a class="@Url.Content("Trang"+i) linkTrang" data-sotrang href="#">@i</a>
+        }
+       
+    </div>
+</div>
+@* Bước 2: Cho tất cả các trang ẩn hết chỉ cho trang 1 hiện*@
+<style>
+    .simpleCart_shelfItem{
+        display:none;
+    }
+    .Trang1{
+        display:block;
+    }
+    .pagination {
+    display: none;
+    padding-left: 0;
+    margin: 20px 0;
+    border-radius: 4px;
+     }
+</style>
+@*Bước 3: Xử lý khi click vào link trang nào thì show sản phẩm trang đó*@
+<script>
+    $('.linkTrang').Click(function(){
+        $(".simpleCart_shelfItem").hide();
+        // Lấy ra số trang từ thẻ a
+        var soTrang = $(this).attr("data=sotrang");
+        //Gọi những class nào thuộc số trang đó thì hiện
+        $("."+soTrang).show();
+});
+</script>

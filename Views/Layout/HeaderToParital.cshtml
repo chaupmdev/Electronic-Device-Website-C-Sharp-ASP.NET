@@ -1,0 +1,139 @@
+﻿@using WedSiteBanHang.Models
+<div class="header-top">
+        <div class="container">
+            <div class="search">
+                @*Tạo form submit về action tìm kiếm*@
+              @using(Html.BeginForm("LayTuKhoaTimKiem", "TimKiem"))
+               {
+                    <input type = "text" name = "sTuKhoa" placeholder = "Tên sản phẩm..." >
+                    <input style="margin-right: 4px" type = "submit" value = "Tìm kiếm" >
+                }
+
+
+            </div>
+            <div class="header-left">
+                <ul style="margin-top: 6px;">
+                    @if (Session["TaiKhoan"] != null )
+                  {
+                      ThanhVien tv = (ThanhVien)Session["TaiKhoan"];
+                        <li style="margin-right: 52px; color: #fcf8e3;" >Chào @tv.HoTen</li>
+                        <li style="margin-right: 20px;"><a @Html.ActionLink("Đăng Xuất", "DangXuat", "Home")></a></li>
+                        if (@tv.TaiKhoan == "Admin")
+                        {
+                            <li style="display: inline;"><a href="@Url.Action("Index","QuanLySanPham")">Quản trị</a></li>
+                        }
+
+                    }
+                    else
+                    {
+                    <li style="display: inline;"><a id="btnDangnhap" class="lock" href="#">Đăng nhập</a></li>
+                    <li style="display: inline;"><a href="@Url.Action("Dangky","Home")">Đăng ký</a></li>
+                   
+
+                    }
+                   
+                </ul>
+                @*Chen partial view gio hang vao layout (tach gio hang sang 1 patrtial view moi)*@
+             @Html.Action("GioHangPartial","GioHang")
+                <div class="clearfix"> </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+
+
+<link href="~/Content/css/style_dangnhap.css" rel="stylesheet" />
+@*===============*@
+<div >
+    <br />
+    @*Tạo 1 div bên ngoài chứa div login-form*@
+    <div id="popup-login">
+        <div class="login-form" id="login-form">
+            <div style="clear:both;text-align:right;margin-bottom:0;">
+                <span id="colse-form" class="btn btn-danger">X</span>
+
+            </div>
+            <h2>Đăng nhập</h2>
+            <div class="form-info">
+             
+                    @using (Ajax.BeginForm("DangNhap", "Home", new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "ThongBao" }))
+                     {
+                        <input class="email Taikhoan" name="txtTenDangNhap" placeholder="Tên đăng nhập" required="" type="text">
+                        <input class="password Matkhau" name="txtMatKhau" placeholder="Mật khẩu" required="" type="password">
+                        <p><a href="#">Quên mật khẩu?</a></p>
+                        <h3 style="font-weight:bold;color:red;text-align:left;" id="ThongBao"></h3>
+                        <ul class="login-buttons">
+                            <li><input value="Đăng nhập" type="submit" id="btnDangnhap1"></li>
+                            <li><a href="@Url.Action("Dangky","Home")" class="hvr-sweep-to-left">Đăng ký</a></li>
+
+                        </ul>
+                    }
+                    
+              
+            </div>
+        </div>
+        <!--copyrights-->
+    </div>
+</div>
+
+
+@*Css*@
+<style>
+    
+    
+}
+
+    #colse-form {
+        color: white;
+    }
+
+    #login-form {
+        background: #3a3a46;
+        cursor: pointer;
+    }
+
+    /*Css cho phần div popup*/
+    #popup-login {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,.5);
+        z-index: 99;
+        display: none;
+    }
+</style>
+@*sử dụng jquery để hiện thị popup đăng nhập*@
+
+<script type="text/javascript">
+
+    @*Hiển thị*@
+    $("#btnDangnhap").click(function () {
+        $("#popup-login").show()
+    }
+        );
+    @*ẩn đi*@
+    $("#colse-form").click(Anform);
+    @*Funtion ẩn form*@
+    function Anform()
+    {
+        $("#popup-login").hide();
+    }
+       @*Ví dụ lấy giá trị textbox*@
+    $("#btnDangnhap1").click( function(){
+        var taikhoan = $(".Taikhoan").val();
+        var matkhau = $(".Matkhau").val();
+
+
+        if(taikhoan == "")
+        {
+            alert("Lỗi")
+            return;
+        }
+
+
+    });
+
+</script>
+

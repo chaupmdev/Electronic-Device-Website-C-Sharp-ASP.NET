@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "TestMethoJquery";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+
+
+@*<div class="abc">
+    <input type="text" class="test" data-giatri="123456" data-abc="123"/>
+    <input type="button" value="Xuất thông báo" id="btnXuatThongBao"  />
+ 
+</div>*@
+
+@*Thẻ năm phía ngoài*@
+
+@*demo phương thức each*@
+<div class="content1">abc 1</div>
+<div class="content">xyz 1</div>
+<div class="content">xyz 4</div>
+<div class="content">xyz 3</div>
+<div class="content">abc 5</div>
+<input type="button" value="Xuất thông báo" id="btnXuatThongBao" />
+
+<script>
+    //Cách 1: 
+    //$("#btnXuatThongBao").click(function () {
+        //Phương thức file để tìm đến các thẻ có selector tương ứng với tham số truyền vào
+     //   var noidung = $(".abc").find(".test").attr("data-abc");
+        //var noidung = $(".test").attr("data-giatri");
+
+       //$(".abc").prepend("<input >")
+
+   // });
+    ////Cách 2:
+    //$("body").delegate("#btnXuatThongBao", "click", function () {
+    //    var noidung = $(".test").val();
+    //    alert(noidung);
+    //});
+    ////Cách 3:
+    //$("body").on("click", "#btnXuatThongBao", function () {
+    //    var noidung = $(".test").val();
+    //    alert(noidung);
+    //});
+    $("#btnXuatThongBao").click(function () {
+        $(".content1").each(function (){
+            var noidung = $(this).text();
+            alert(noidung);
+
+        });
+    });
+</script>
+

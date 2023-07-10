@@ -1,0 +1,46 @@
+﻿@model WedSiteBanHang.Models.Quyen
+@{
+    ViewBag.Title = "Xem chi tiết";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("XemChiTiet", "Quyen", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Xem chi tiết: Quyền @Model.TenQuyen</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+          
+            <label class="control-label col-md-2" for="MaQuyen">Mã Quyền:</label>
+            <div class="col-md-4" style="margin:9px;">
+
+                @Html.DisplayFor(model => model.MaQuyen, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.MaQuyen, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="TenQuyen">Tên Quyền:</label>
+            <div class="col-md-4" style="margin:9px;">
+                @Html.DisplayFor(model => model.TenQuyen, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.TenQuyen, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+       
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Quay lại quản lý quyền", "Index")
+</div>
+<style>
+    a {
+    color: #5cb85c;
+    text-decoration: none;
+}
+</style>

@@ -1,0 +1,390 @@
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\csc.exe
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\vbc.exe
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.dll.config
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.pdb
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Owin.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\WebGrease.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.pdb
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\PagedList.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\PagedList.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.AssemblyReference.cache
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\CHUNGPV11\Desktop\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.CopyComplete
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\csc.exe
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\vbc.exe
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.dll.config
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.pdb
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Antlr3.Runtime.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Newtonsoft.Json.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Owin.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\PagedList.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\PagedList.Mvc.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Helpers.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Mvc.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Optimization.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Razor.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\WebGrease.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.pdb
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\PagedList.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\PagedList.Mvc.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Helpers.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Mvc.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Optimization.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Razor.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Antlr3.Runtime.pdb
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Newtonsoft.Json.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.AssemblyReference.cache
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.CoreCompileInputs.cache
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.CopyComplete
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.dll
+D:\Web 2\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.pdb
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\csc.exe
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\vbc.exe
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.dll.config
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.pdb
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Antlr3.Runtime.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Newtonsoft.Json.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Owin.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\PagedList.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\PagedList.Mvc.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Helpers.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Mvc.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Optimization.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Razor.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\WebGrease.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.pdb
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\PagedList.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\PagedList.Mvc.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Helpers.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Mvc.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Optimization.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Razor.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Antlr3.Runtime.pdb
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Newtonsoft.Json.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.AssemblyReference.cache
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.CoreCompileInputs.cache
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.CopyComplete
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.dll
+D:\Web 2\LTWEB_Nhom5_TieuLuan\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.pdb
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\csc.exe
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\vbc.exe
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.dll.config
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.pdb
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Antlr3.Runtime.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Newtonsoft.Json.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Owin.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\PagedList.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\PagedList.Mvc.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Helpers.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Mvc.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Optimization.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Razor.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\WebGrease.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.pdb
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\PagedList.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\PagedList.Mvc.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Helpers.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Mvc.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Optimization.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Razor.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Antlr3.Runtime.pdb
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Newtonsoft.Json.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.AssemblyReference.cache
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.CoreCompileInputs.cache
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.CopyComplete
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.dll
+D:\Chau_711\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.pdb
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\csc.exe
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\vbc.exe
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.dll.config
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\WedSiteBanHang.pdb
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Antlr3.Runtime.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Google.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Newtonsoft.Json.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Owin.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\PagedList.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\PagedList.Mvc.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Helpers.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Mvc.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Optimization.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Razor.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\WebGrease.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.pdb
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\CaptchaMvc.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\PagedList.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\PagedList.Mvc.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Helpers.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Mvc.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Optimization.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.Razor.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Antlr3.Runtime.pdb
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Newtonsoft.Json.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Google.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.AssemblyReference.cache
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.CoreCompileInputs.cache
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.csproj.CopyComplete
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.dll
+D:\Web 2\Nhom5_WebsiteQuanLyBanThietBiDienTu\WedSiteBanHang\WedSiteBanHang\obj\Debug\WedSiteBanHang.pdb

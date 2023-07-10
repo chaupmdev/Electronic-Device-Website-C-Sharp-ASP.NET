@@ -1,0 +1,183 @@
+﻿@using WedSiteBanHang.Models;
+@model PhieuNhap
+
+@{
+    ViewBag.Title = "NhapHang";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+@{ 
+    IEnumerable<NhaCungCap> lstNCC = ViewBag.MaNCC as IEnumerable<NhaCungCap>;
+}
+@*Bước 1: Sử dụng control datetimepicker chèn 3 file script*@
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+<script src="//code.jquery.com/jquery-3.6.0.js"></script>
+<script src="//code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+@*date time*@
+<script>
+  $( function() {
+    $( ".date" ).datepicker();
+  } );
+</script>
+
+@using (Html.BeginForm())
+{ 
+<div class="row">
+    <div class="ThongTinPhieuNhap col-md-12">
+        <div class="col-md-2">
+            Nhà cung cấp
+        </div>
+        <div class="col-md-5">
+            @*Chọn nhà cung cấp*@
+            <select class="MaNCC" name="MaNCC" style="width:172px">
+                @foreach (var item in lstNCC)
+                {
+                    <option value="@item.MaNCC">@item.TenNCC</option>
+                    }
+            </select>
+        </div>
+    </div>
+</div>
+<div class="col-md-12">
+    @*Ngày nhâp*@
+    <div class="col-md-2" style="top:20px">
+        Ngày nhập
+    </div>
+    <div class="col-md-5" style="top:20px">
+        <input class="date" name="NgayNhap" type="text"  />
+    </div>
+</div>
+<div class="clearfix">  </div>
+<br /><br /><br />
+@*Phần chi tiết nhập hàng*@
+<table class="table tblChiTietPhieuNhap">
+    @{IEnumerable<SanPham> lstSanPham = ViewBag.ListSanPham as IEnumerable<SanPham>; }
+    @*Tạo ra 1 tr với nội dung nhập hàng của 1 sản phẩm*@
+    <tr class="trAppend" style="display:none">
+        <td>
+            <select class="ddlSanPham" name=""  >
+                @foreach (var item in lstSanPham)
+                {
+                    <option value="@item.MaSP"> @item.TenSP</option>
+                }
+            </select>
+        </td>
+        <td>
+            <input name="" class="txtDonGia" value="0" />
+
+        </td>
+        <td>
+            <input name="" class="txtSoLuong" value="0" />
+           
+        </td>
+        <td>
+            <input class="btnDelete btn btn-danger" style="width:30px; height:30px" value="-" />
+
+        </td>
+    </tr>
+ 
+    <tr class="trFirstChild" data-id="-1">
+        <td>Sản phẩm</td>
+        <td>Đơn giá nhập</td>
+        <td>Số lượng nhập</td>
+        <td></td>
+    </tr>
+</table>
+@*Nút button thêm*@
+<input type="button" value="+" class="btn btn-success" id="btnAdd" />
+<input type="submit" value="Nhập hàng" class="btn btn-primary" id="btnNhapHang" />
+        }
+<script>
+    $("#btnAdd").click(function () {
+      
+    // Lấy id của tr cuối cùng thuộc thẻ table có class = tblChitietPhieuNhap
+    //Bước 4: PHương thức find là tìm đến thẻ nào đó: ở đây là thẻ tr (:last-child) là thẻ tr cuối cùng trong thể tblChitetPhieuNhap
+        var id_cuoi = $(".tblChiTietPhieuNhap").find("tr:last-child").attr("data-id");
+      i = parseInt(id_cuoi) + 1;
+    // Bước 1:Nội dung phía trong thẻ trAppend
+    var tdnoidung = $(".trAppend").html();
+    //Bước 2: Tạo 1 thẻ tr bao ngoài nội dung
+     var trnoidung = "<tr class=\"trAppended\" data-id=\"" + i + "\">" + tdnoidung + "</tr>";
+    // Bước 3: lấy thẻ table append vào 1 tr
+    $(".tblChiTietPhieuNhap").append(trnoidung);
+      loadIDLENTHE();
+    });
+    //Phương thức xử lý lấy thuộc tính attr từ thẻ tr gán xuống chỉ số phần tử các trong thuộc tính name của thẻ input
+    function loadIDLENTHE() {
+        $(".trAppended").each(function () {
+            //Lấy thuộc tính data-id của thẻ tr hiện
+            var id = $(this).attr("data-id");
+            var nameMaSanPham = "[" + id + "].MaSP";//Tạo ra mã sản phẩm
+            var nameSoLuongNhap = "[" + id + "].SoLuongNhap";// Tạo số lượng nhâp
+            var nameDonGiaNhap = "[" + id + "].DonGiaNhap";//Tạo ra đơn giá nhập
+            $(this).find(".ddlSanPham").prop("name", nameMaSanPham);// Gán name cho dropdownlist
+            $(this).find(".txtDonGia").attr("name", nameDonGiaNhap);//Gán đơn giá nhập
+            $(this).find(".txtSoLuong").attr("name", nameSoLuongNhap);//Gán name số lượng nhập
+        });
+    };
+    //Funtion cập nhật id
+    function CapNhapID()
+    {//Lấy lại tr 1
+        var id_cuoi = $(".tblChiTietPhieuNhap").find(".trFirstChild").attr("data-id");
+        i = parseInt(id_cuoi) + 1;
+
+        $(".trAppended").each(function () {
+            var id = i;
+            $(this).attr("data-id", i);
+            //Cập nhật lại id khi xóa
+        var nameMaSanPham = "[" + id + "].MaSP";//Tạo ra mã sản phẩm
+        var nameSoLuongNhap = "[" + id + "].SoLuongNhap";// Tạo số lượng nhâp
+        var nameDonGiaNhap = "[" + id + "].DonGiaNhap";//Tạo ra đơn giá nhập
+        $(this).find(".ddlSanPham").prop("name", nameMaSanPham);// Gán name cho dropdownlist
+        $(this).find(".txtDonGia").attr("name", nameDonGiaNhap);//Gán đơn giá nhập
+        $(this).find(".txtSoLuong").attr("name", nameSoLuongNhap);//Gán name số lượng nhập
+        i++;
+        });
+    }
+    // Xử lý sự kiện xóa xóa
+    $("body").delegate(".btnDelete", "click", function () {
+        $(this).closest(".trAppended").remove();
+        CapNhapID();
+    });
+    $("#btnNhapHang").click(function(){
+        if(kiemtraDonGia() == false)
+        {
+            //Nếu tồn tại 1 giá trị bất kỳ của class đơn giá không phải số thì ngăn k cho submit vào server
+            return false;
+        }
+        if (kiemtraSoLuong() == false) {
+            //Nếu tồn tại 1 giá trị bất kỳ của class đơn giá không phải số thì ngăn k cho submit vào server
+            return false;
+        }
+       
+    });
+    //Kiểm tra đơn giá
+    function kiemtraDonGia() {
+        var bl = true;
+        //Duyệt vòng lặp each
+        $(".txtDonGia").each(function () {
+            var giatri = $(this).val();
+            if (isNaN(giatri) == true) {
+                alert("Đơn giá không hợp lệ!");
+                bl = false;
+                return bl;
+            }
+        });
+        return bl;
+    }
+    //Kiểm tra số lượng
+    //Kiểm tra đơn giá
+    function kiemtraSoLuong() {
+        var bl = true;
+        //Duyệt vòng lặp each
+        $(".txtSoLuong").each(function () {
+            var giatri = $(this).val();
+            if (isNaN(giatri) == true) {
+                alert("Số lượng không hợp lệ!");
+                bl = false;
+                return bl;
+            }
+        });
+        return bl;
+    }
+    
+</script>

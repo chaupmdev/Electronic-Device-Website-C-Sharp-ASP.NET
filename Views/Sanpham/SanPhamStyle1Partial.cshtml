@@ -1,0 +1,24 @@
+﻿@using WedSiteBanHang.Models
+@model IEnumerable<SanPham>
+
+
+@foreach (var iterm in Model.Take(3))
+    {
+
+
+        <div class="col-md-4 grid-top">
+            <a href="@Url.Action("XemChiTiet", "SanPham", new { id = iterm.MaSP}) " class="b-link-stripe b-animate-go  thickbox">
+                <img class="img-responsive" src="@Url.Content("~/Content/images/"+iterm.HinhAnh)" alt="">
+                <div class="b-wrapper">
+
+                    <h3 class="b-animate b-from-left    b-delay03 " style="text-align:left;font-size:15pt;">
+                        @Html.Raw(iterm.CauHinh)
+                    </h3>
+                </div>
+            </a>
+
+
+            <p><a href="@Url.RouteUrl("XemChiTiet", new{@id=iterm.MaSP, @tensp=iterm.TenSP})">@iterm.TenSP</a></p>
+        </div>
+    }
+        <div class="clearfix"> </div>

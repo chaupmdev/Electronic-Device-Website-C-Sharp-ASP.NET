@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "DemoAjax";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+@*@*Load ajax theo cach thu 1 dung ajax.actionlink*@
+@*@Ajax.ActionLink("Load Ajax MVC","LoadAjaxActionLink", new AjaxOptions {HttpMethod="Get",UpdateTargetId="KetQua", InsertionMode = InsertionMode.Replace, LoadingElementId= "divLoadding" } )*@
+
+@*Load ajax theo cach thu 2 dung ajax.begiform*@
+@*@using (Ajax.BeginForm("LoadAjaxBeginForm", new AjaxOptions { HttpMethod = "Post", UpdateTargetId = "KetQua", InsertionMode = InsertionMode.Replace, LoadingElementId = "divLoadding" }))
+    {
+       <input name="txt1" />
+        <input type="submit"  value="submit"/>
+    }*@
+@*<input type="button" id="button" value="Submit Jquery Ajax" />
+    <div id="divLoadding" style="display: none">
+        <img src="~/Content/images/Anhdong.gif" />
+    </div>
+            <input id="txt1" />
+            <input id="txt2" />
+            <div id="KetQua" style="height:150px;">
+                Day la ket quan
+                <br />
+            </div>*@
+@*Cách thứ 3 dùng Jquery*@
+@*<script>
+        $("#button").click(function () {
+            $('#divLoadding').show();
+            var thamso1 = $("#txt1").val();
+            var thamso2 = $("#txt2").val();
+            $.ajax({
+                type: 'GET',
+                data: {
+                    a: thamso1,
+                    b: thamso2
+                },
+                url: "LoadAjaxJQuery",
+              success: function (ketqua)
+                {
+                    $('#divLoadding').hide();
+                $('#KetQua').html(ketqua);
+            }
+            })
+        })
+    </script>*@
+@*Load partialview Ajax*@
+@Ajax.ActionLink("Load Ajax MVC", "LoadSanphamAjax", new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "KetQua", InsertionMode = InsertionMode.Replace, LoadingElementId = "divLoadding" })
+<div class="container">
+    <div class="content-top">
+        <div id="KetQua" style="height:150px;">
+            Day la ket qua
+            <br />
+        </div>
+        </div>
+    </div>
+        <div id="divLoadding" style="display: none">
+            <img src="~/Content/images/Anhdong.gif" />
+        </div>

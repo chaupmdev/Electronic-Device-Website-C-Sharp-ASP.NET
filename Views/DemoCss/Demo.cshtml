@@ -1,0 +1,96 @@
+﻿
+@{
+    ViewBag.Title = "Demo";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+
+<link href="~/Content/css/style_dangnhap.css" rel="stylesheet" />
+@*===============*@
+<div style="height: 500px">
+    <br />
+    <input type="button" value="Đăng nhập" id="btnDangNhap" class="btn btn-primary"/>
+    @*Tạo 1 div bên ngoài chứa div login-form*@
+    <div id="popup-login">
+        <div class="login-form" id="login-form">
+            <div style="clear:both;text-align:right;margin-bottom:0;">
+                @*<span id="colse-form" class="btn btn-danger">X</span>*@
+
+            </div>
+            <h2>Đăng nhập</h2>
+            <div class="form-info">
+                <form>
+                    <input class="email Taikhoan" placeholder="Tên đăng nhập" required="" type="text"  >
+                    <input class="password Matkhau" placeholder="Mật khẩu" required="" type="password">
+                    <p><a href="#">Quên mật khẩu?</a></p>
+                    <ul class="login-buttons">
+                        <li><input value="Đăng" type="submit" id="btnDangNhap1"></li>
+                        <li><a href="#" class="hvr-sweep-to-left">Đăng ký</a></li>
+
+                    </ul>
+                </form>
+            </div>
+        </div>
+        <!--copyrights-->
+    </div>
+    </div>
+
+
+@*Css*@
+<style>
+    #btnDangNhap{
+        float: left;
+    }
+    .content{
+        height: 500px;
+    }
+    #colse-form{
+        color: white;
+    }
+    #login-form{
+        background: #3a3a46;
+        cursor: pointer;
+    }
+    
+  /*Css cho phần div popup*/
+  #popup-login{
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0,0,0,.5);
+      z-index: 99;
+      display: none;
+  }
+</style>
+@*sử dụng jquery để hiện thị popup đăng nhập*@
+
+<script type="text/javascript">  
+    @*Hiển thị*@
+    $("#btnDangNhap").click(function () {
+        $("#popup-login").show()
+    }
+        );
+    @*ẩn đi*@
+    $("#colse-form").click(Anform);
+    @*Funtion ẩn form*@
+    function Anform()
+    {
+        $("#popup-login").hide();
+    }
+       @*Ví dụ lấy giá trị textbox*@
+    $("#btnDangNhap1").click( function(){
+        var taikhoan = $(".Taikhoan").val();
+        var matkhau = $(".Matkhau").val();
+       
+
+        if(taikhoan == "")
+        {
+            alert("Lỗi đăng nhập")
+            return;
+        }
+        
+
+    });
+ 
+</script>
